@@ -1,0 +1,19 @@
+{
+ "name": "date-time",
+ "version": "1.0.0",
+ "description": "Date and Time",
+ "main": "app.js",
+ "scripts": {
+  "test": "run.bat"
+ },
+ "repository": {
+  "type": "git",
+  "url": "https://"
+ },
+ "keywords": [
+  "Date",
+  "Time"
+ ],
+ "author": "Ian Neal Higginson",
+ "license": "MIT"
+}
